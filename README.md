@@ -1,17 +1,26 @@
 # 675 Final project Swin-Transformer image classification on ImageWoof
 
-Based on early instructions, the coding was done in jupyter notebooks, created by me: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb). All code and code modification were done in these notebooks. My own experiments on the ImageWoof dataset involve data augmentation and transfer learning. 
+Based on early instructions, the coding was done in jupyter notebooks, created by me: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb). All code and code modification were done in these notebooks. My own experiments on the ImageWoof dataset involve data augmentation and transfer learning.  Detailed results and writeup are in the submitted manuscript.
 
 Experimental results are as below:
 
 Table of benchmark results 
+
 <img src="figures/Table_of_results.png" alt="Drawing" style="width: 500px;"/>
 
-Confusion matrix of Swin-Transformer model(Validation accuracy 95.09\%)
+Confusion matrix of Swin-Transformer model (Validation accuracy 95.09\%)
+
 <img src="figures/ConfusionMatrix.png" alt="Drawing" style="width: 500px;"/>
+
+Training curves of the transformers
+
+
+<img src="figures/swin_t_acc.png" alt="Drawing" style="width: 500px;"/><img src="figures/swin_t_loss.png" alt="Drawing" style="width: 500px;"/>
 
 
 Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
+
+
 
 
 ### Imagewoof Leaderboard
@@ -30,7 +39,7 @@ Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/ima
 |256|20|[Resnet Trick + Mish + Sa + MaxBlurPool](https://github.com/ayasyrev/imagenette_experiments/blob/master/Woof_MaxBlurPool_ResnetTrick_s256bs32.ipynb)|88,58%|5, mean|
 |256|80|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|90.48%|1|
 |256|200|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|90.38%|1|
-|224|100|[675Project Swin-Transformer](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb)|95.09||1|
+|224|100|[675Project Swin-Transformer](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb)|95.09%||1|
 
 
 
