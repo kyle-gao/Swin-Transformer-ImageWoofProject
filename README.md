@@ -4,10 +4,10 @@ Based on early instructions, the coding was done in jupyter notebooks, created b
 
 Experimental results are as below:
 
-
+Table of benchmark results 
 <img src="figures/Table_of_results.png" alt="Drawing" style="width: 500px;"/>
 
-
+Confusion matrix of Swin-Transformer model(Validation accuracy 95.09\%)
 <img src="figures/ConfusionMatrix.png" alt="Drawing" style="width: 500px;"/>
 
 
