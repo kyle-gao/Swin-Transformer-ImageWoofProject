@@ -12,7 +12,7 @@ Confusion matrix of Swin-Transformer model (Validation accuracy 95.09\%)
 
 <img src="figures/ConfusionMatrix.png" alt="Drawing" style="width: 500px;"/>
 
-Training curves of the transformers. We note the training loss is greater than the validation loss due to the heavy data augmentation which helps the model prevent overfitting.
+Training curves of the transformers. We note the training loss is greater than the validation loss due to the heavy data augmentation which helps the model prevent overfitting. (Without data augmentation, all models end up overfitting, see report).
 
 
 <img src="figures/swin_t_acc.png" alt="Drawing" style="width: 250px;"/><img src="figures/swin_t_loss.png" alt="Drawing" style="width: 250px;"/>
