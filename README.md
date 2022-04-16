@@ -5,13 +5,13 @@ Based on early instructions, the coding was done in jupyter notebooks, created b
 Experimental results are as below:
 
 
-<img src="figures/Table_of_results.png" alt="Drawing" style="width: 500px;"/><img src="figures/ConfusionMatrix.png" alt="Drawing" style="width: 500px;"/>
+<img src="figures/Table_of_results.png" alt="Drawing" style="width: 500px;"/>
+
+
+<img src="figures/ConfusionMatrix.png" alt="Drawing" style="width: 500px;"/>
 
 
 Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
-
-
-![cm](figures/ConfusionMatrix.png)
 
 
 ### Imagewoof Leaderboard
