@@ -1,3 +1,14 @@
+# 675 Final project Swin-Transformer image classification on ImageWoof
+
+-Based on early instructions, the coding was done in jupyter notebooks: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675RandomForest_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb).
+
+
+
+
+
+
+
+____________________________________________________________________________________________________________________________________________
 # Swin Transformer
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swin-transformer-v2-scaling-up-capacity-and/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=swin-transformer-v2-scaling-up-capacity-and)
