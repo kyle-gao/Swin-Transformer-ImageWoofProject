@@ -31,7 +31,7 @@ Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/ima
 
 
 ____________________________________________________________________________________________________________________________________________
-# Swin Transformer
+# Swin Transformer Readme: From the original [Swin-Transformer](https://github.com/microsoft/Swin-Transformer) repository for installation and usage guide.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swin-transformer-v2-scaling-up-capacity-and/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=swin-transformer-v2-scaling-up-capacity-and)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/swin-transformer-v2-scaling-up-capacity-and/instance-segmentation-on-coco)](https://paperswithcode.com/sota/instance-segmentation-on-coco?p=swin-transformer-v2-scaling-up-capacity-and)
