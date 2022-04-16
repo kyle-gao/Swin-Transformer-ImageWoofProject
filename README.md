@@ -1,6 +1,27 @@
 # 675 Final project Swin-Transformer image classification on ImageWoof
 
--Based on early instructions, the coding was done in jupyter notebooks: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb).
+-Based on early instructions, the coding was done in jupyter notebooks: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb). 
+
+Previous ImageWoof leaderboard:
+
+
+### Imagewoof Leaderboard
+
+| Size (px) | Epochs | URL | Accuracy | # Runs |
+|--|--|--|--|--|
+|128|5|[depthwise(x6)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|76.61%|5, mean|
+|128|20|[depthwise(x4)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|86.27%|5, mean|
+|128|80|[depthwise(x4)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|87.83%|1|
+|128|200|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|87.20%|1|
+|192|5|[depthwise(x4)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|81.15%|5, mean|
+|192|20|[depthwise(x4)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|88.37%|5, mean|
+|192|80|[depthwise(x2)](https://github.com/liuyao12/imagenette_experiments/blob/master/ResNet_separable.ipynb)|90.30%|1|
+|192|200|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|89.54%|1|
+|256|5|[Resnet Trick + Mish + Sa + MaxBlurPool](https://github.com/ayasyrev/imagenette_experiments/blob/master/Woof_MaxBlurPool_ResnetTrick_s256bs32.ipynb)|78,84%|5, mean|
+|256|20|[Resnet Trick + Mish + Sa + MaxBlurPool](https://github.com/ayasyrev/imagenette_experiments/blob/master/Woof_MaxBlurPool_ResnetTrick_s256bs32.ipynb)|88,58%|5, mean|
+|256|80|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|90.48%|1|
+|256|200|[fastai2 train_imagenette.py 2020-01](https://github.com/fastai/imagenette/blob/master/2020-01-train.md)|90.38%|1|
+|224|100|[675Project Swin-Transformer](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) |95.41||1|
 
 
 
