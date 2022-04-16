@@ -21,6 +21,7 @@ Training curves of the transformers. We note the training loss is greater than t
 Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
 
 
+<img src="figures/traindata.png" alt="Drawing" style="width: 250px;"/><img src="figures/traindata_aug.png" alt="Drawing" style="width: 250px;"/>
 
 
 ### Imagewoof Leaderboard
