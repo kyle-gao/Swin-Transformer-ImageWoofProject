@@ -15,7 +15,7 @@ Confusion matrix of Swin-Transformer model (Validation accuracy 95.09\%)
 Training curves of the transformers
 
 
-<img src="figures/swin_t_acc.png" alt="Drawing" style="width: 500px;"/><img src="figures/swin_t_loss.png" alt="Drawing" style="width: 500px;"/>
+<img src="figures/swin_t_acc.png" alt="Drawing" style="width: 250px;"/><img src="figures/swin_t_loss.png" alt="Drawing" style="width: 250px;"/>
 
 
 Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
