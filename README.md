@@ -1,6 +1,6 @@
 # 675 Final project Swin-Transformer image classification on ImageWoof
 
--Based on early instructions, the coding was done in jupyter notebooks: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675RandomForest_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb).
+-Based on early instructions, the coding was done in jupyter notebooks: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb).
 
 
 
