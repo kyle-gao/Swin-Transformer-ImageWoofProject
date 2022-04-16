@@ -1,7 +1,7 @@
 # 675 Final project Swin-Transformer image classification on ImageWoof
 
 Based on early instructions, the coding was done in jupyter notebooks, created by me: see [Notebook1: Swin-Transformer and ResNet](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/675Swin_ImageWoof.ipynb) and [Notebook2: Random Forest](https://github.com/kyle-gao/Swin-Transformer-ImageWoofProject/blob/main/676RandomForest_ImageWoof.ipynb). All code and code modification were done in these notebooks. My own experiments on the ImageWoof dataset involve data augmentation and transfer learning. 
-
+![teaser](figures/ConfusionMatrix.png)
 Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
 
 
