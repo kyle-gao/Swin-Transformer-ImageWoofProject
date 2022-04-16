@@ -18,10 +18,16 @@ Training curves of the transformers. We note the training loss is greater than t
 <img src="figures/swin_t_acc.png" alt="Drawing" style="width: 250px;"/><img src="figures/swin_t_loss.png" alt="Drawing" style="width: 250px;"/>
 
 
-Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets.
+Dataset is available at the [ImageNette/ImageWoof](https://github.com/fastai/imagenette) repository. I chose to do my project on ImageWoof, the more challenging of the two datasets. 
 
 
-<img src="figures/traindata.png" alt="Drawing" style="width: 250px;"/><img src="figures/traindata_aug.png" alt="Drawing" style="width: 250px;"/>
+Example ImageWoof images:
+
+<img src="figures/traindata.png" alt="Drawing" style="width: 500px;"/>
+
+Example ImageWoof images with data augmentation:
+
+<img src="figures/traindata_aug.png" alt="Drawing" style="width: 500px;"/>
 
 
 ### Imagewoof Leaderboard
